@@ -6,8 +6,8 @@ Daily Reports (and format)
    :maxdepth: 1
    :caption: Squad & daywise reports:
 
-   sq1_daily_rep/sq1_d0_rep
-   sq2_daily_rep/sq2_d0_rep
+   sq1_daily_rep/day_1
+   sq2_daily_rep/day_2
    sq3_daily_rep/sq3_d0_rep
 
 

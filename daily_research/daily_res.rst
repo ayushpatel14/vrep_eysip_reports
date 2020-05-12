@@ -6,9 +6,9 @@ Daily Research log (and format)
    :maxdepth: 1
    :caption: Contents:
 
-   sq1_daily_res/sq1_d0_res
-   sq2_daily_res/sq2_d0_res
-   sq3_daily_res/sq3_d0_res
+   sq1_daily_res/day_1
+   sq2_daily_res/day_2
+   sq3_daily_res/day_3
    Proposed_Graph_Format
 
 .. Indices and tables
